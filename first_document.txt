@@ -7,3 +7,5 @@ And change this file one more
 One more change in func branch
 
 It is conflict string in master branch
+
+It is conflict string in func branch
