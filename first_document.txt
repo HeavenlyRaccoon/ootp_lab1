@@ -2,3 +2,4 @@ Oh, it is first document...
 Oops, i change this document on github
 
 I create new branch - func
+And change this file one more
